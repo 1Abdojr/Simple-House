@@ -1,0 +1,702 @@
+body
+{
+    
+}
+
+
+          /* Start header */
+
+.header
+{
+    width: 100%;
+    background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/simple-house-01.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.header logo
+{
+    float: left;
+    padding-top: 500px;
+}
+
+.header logo .text
+{
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
+
+.header logo img
+{
+    float: left;
+    padding-left: 40px;
+}
+
+.header ul
+{
+    float: right;
+    padding-top: 530px;
+    padding-right: 30px;
+}
+
+.header ul li
+{
+    float: left;
+    list-style: none;
+    padding: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.header ul li a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+             /* End header */
+
+
+
+             /* Start header */ /* tablet */
+
+@media screen and (max-width:768px) {
+    
+
+    .header
+    {
+        width: 100%;
+        height: auto;
+        background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/simple-house-01.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .header nav
+    {
+        overflow: hidden;
+        padding: 100px;
+    }
+
+
+    .header logo
+    {
+        float: left;
+    }
+
+    .header logo .text
+    {
+        font-family: sans-serif;
+        color: aliceblue;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 400;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        text-shadow: 2px 2px black;
+    }
+
+    .header logo img
+    {
+        float: left;
+        padding-left: 40px;
+    }
+
+    .header ul
+    {
+        float: right;
+        padding-bottom: 
+    }
+
+    .header ul li
+    {
+        float: left;
+        list-style: none;
+        padding: 18px;
+        color: aliceblue;
+        font-size: 19px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        text-shadow: 2px 2px black;
+
+    }
+
+    .header ul li a
+    {
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+}
+
+             /* End header */  /* tablet */
+
+             /* Start header */ /* mobile */
+
+@media screen and (max-width:400px) {
+    
+
+    .header
+    {
+        width: 100%;
+        background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/simple-house-01.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .header nav
+    {
+        overflow: hidden;
+        padding: 10px;
+    }
+
+
+    .header logo
+    {
+        float: left;
+        padding-top: 500px;
+    }
+
+    .header logo .text
+    {
+        font-family: sans-serif;
+        color: aliceblue;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        text-shadow: 1px 1px black;
+    }
+
+    .header logo img
+    {
+        float: left;
+        padding-left: 40px;
+    }
+
+    .header ul
+    {
+        float: right;
+        padding-bottom: 
+    }
+
+    .header ul li
+    {
+        float: left;
+        list-style: none;
+        padding: 18px;
+        color: aliceblue;
+        font-size: 15px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        text-shadow: 1px 1px black;
+
+    }
+
+    .header ul li a
+    {
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+}
+
+             /* End header */  /* mobile */
+
+
+             /* Start Home */
+
+.Home
+{
+    height: 300px;
+}
+
+.Home .text
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight:100;
+    line-height: 39px;
+    opacity: 0.8;
+}
+
+.Home .text p
+{
+    padding-left: 220px;
+    padding-right: 220px;
+    color: #161616;
+}
+
+
+
+             /* Start Price */
+
+.Price-one
+{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.Price-one > div
+{
+    float: left;
+    width: 31%;
+    margin-bottom: 15px;
+    padding-left: 23px;
+}
+
+.Price-one h2
+{
+    color: #1a6692;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.Price-one p
+{
+    color: #878787;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    padding-right: 50px;
+}
+
+.Price-one h3
+{
+    color: #2F956D;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 34px;
+}
+
+
+.Price-two
+{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.Price-two > div
+{
+    float: left;
+    width: 31%;
+    margin-bottom: 15px;
+    padding-left: 23px;
+}
+
+.Price-two h2
+{
+    color: #1a6692;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.Price-two p
+{
+    color: #878787;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.Price-two h3
+{
+    color: #2F956D;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 34px;
+}
+
+             /* End Price */
+
+
+             /* Start footer */
+
+.footer
+{
+    height: 85px;
+    background-color: #CCCCCC;
+}
+
+.footer h2
+{
+    text-align: center;
+    opacity: 0.8;
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 34px;
+    padding-top: 30px;
+    
+}
+
+
+             /* End footer */
+
+
+
+             /* End Home */
+
+
+              /* Start Home */  /* tablet */
+
+@media screen and (max-width:768px) {
+    
+
+    .Home
+    {
+        height: 280px;
+        padding-top: 30px;
+    }
+
+    .Home .text
+    {
+        text-align: center;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight:300;
+        line-height: 39px;
+        opacity: 0.8;
+    }
+
+    .Home .text p
+    {
+        padding-left: 6px;
+        padding-right: 6px;
+        color: #161616;
+    }
+
+}
+
+             /* Start Price */ /* tablet */
+
+@media screen and (max-width:768px) {
+
+    .Price-one
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .Price-one > div
+    {
+        width: 77%;
+        margin-bottom: 15px;
+        padding-left: 44px;
+        text-align: center;
+    }
+
+    .Price-one h2
+    {
+        color: #1a6692;
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .Price-one p
+    {
+        color: #878787;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+
+    }
+
+    .Price-one h3
+    {
+        color: #2F956D;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        text-align: center;
+    }
+
+
+    .Price-two
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .Price-two > div
+    {
+        width: 77%;
+        margin-bottom: 15px;
+        padding-left: 44px;
+        text-align: center;
+    }
+
+    .Price-two h2
+    {
+        color: #1a6692;
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .Price-two p
+    {
+        color: #878787;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+    }
+
+    .Price-two h3
+    {
+        color: #2F956D;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        text-align: center;
+    }
+
+}
+             /* End Price */   /* tablet */
+
+
+             /* Start footer */  /* tablet */
+
+
+@media screen and (max-width:768px) {
+
+    
+    .footer
+    {
+        height: 70px;
+        background-color: #CCCCCC;
+    }
+
+    .footer h2
+    {
+        text-align: center;
+        opacity: 0.8;
+        color: black;
+        font-size: 15px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        padding-top: 4%;
+
+    }
+    
+}
+
+             /* End footer */  /* tablet */
+
+
+             /* End Home */    /* tablet */
+
+
+             /* Start Home */  /* mobile */
+
+@media screen and (max-width:400px) {
+    
+
+    .Home
+    {
+        height: 240px;
+        padding-top: 20px;
+    }
+
+    .Home .text
+    {
+        text-align: center;
+        font-size: 12px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight:300;
+        line-height: 39px;
+        opacity: 0.8;
+    }
+
+    .Home .text p
+    {
+        padding-left: 6px;
+        padding-right: 6px;
+        color: #161616;
+    }
+
+}
+
+             /* Start Price */ /* mobile */
+
+@media screen and (max-width:400px) {
+
+    .Price-one
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .Price-one > div
+    {
+        width: 50%;
+        margin-bottom: 15px;
+        padding-left: 66px;
+        text-align: center;
+    }
+
+    .Price-one h2
+    {
+        color: #1a6692;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .Price-one p
+    {
+        color: #878787;
+        font-size: 11px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+        padding-left: 22px;
+
+    }
+
+    .Price-one h3
+    {
+        color: #2F956D;
+        font-size: 13px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+
+    .Price-two
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .Price-two > div
+    {
+        width: 50%;
+        margin-bottom: 15px;
+        padding-left: 33px;
+        padding-left: 66px;
+    }
+
+    .Price-two h2
+    {
+        color: #1a6692;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+        padding-left: 22px;
+    }
+
+    .Price-two p
+    {
+        color: #878787;
+        font-size: 11px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        padding-left: 22px;
+    }
+
+    .Price-two h3
+    {
+         color: #2F956D;
+        font-size: 13px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        padding-left: 22px;
+    }
+
+}
+             /* End Price */   /* mobile */
+
+
+             /* Start footer */  /* mobile */
+
+
+@media screen and (max-width:400px) {
+
+    
+    .footer
+    {
+        height: 70px;
+        background-color: #CCCCCC;
+    }
+
+    .footer h2
+    {
+        text-align: center;
+        opacity: 0.8;
+        color: black;
+        font-size: 12px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        padding-top: 6%;
+
+    }
+    
+    
+}
+
+             /* End footer */  /* mobile */
+
+
+             /* End Home */    /* mobile */

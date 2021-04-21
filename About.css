@@ -1,0 +1,859 @@
+             /* Start About */
+
+.About
+{
+    width: 100%;
+    background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/about-05.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.About logo
+{
+    float: left;
+    padding-top: 500px;
+}
+
+.About logo .text
+{
+    font-family: sans-serif;
+    color: #111111;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
+
+.About logo img
+{
+    float: left;
+    padding-left: 40px;
+}
+
+.About ul
+{
+    float: right;
+    padding-top: 530px;
+    padding-right: 30px;
+}
+
+.About ul li
+{
+    float: left;
+    list-style: none;
+    padding: 20px;
+    color: #111111;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.About ul li a
+{
+    text-decoration: none;
+    color: #111111;
+}
+
+
+             /* End About */
+
+             /* Start About */ /* tablet */
+
+@media screen and (max-width:768px) {
+    
+
+    .About
+    {
+        width: 100%;
+        height: auto;
+        background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/about-05.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .About nav
+    {
+        overflow: hidden;
+        padding: 100px;
+    }
+
+
+    .About logo
+    {
+        float: left;
+    }
+
+    .About logo .text
+    {
+        font-family: sans-serif;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 400;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        text-shadow: 0px 0px black;
+    }
+
+    .About logo img
+    {
+        float: left;
+        padding-left: 40px;
+    }
+
+    .About ul
+    {
+        float: right;
+        padding-bottom: 
+    }
+
+    .About ul li
+    {
+        float: left;
+        list-style: none;
+        padding: 22px;
+        color: #111111;
+        font-size: 19px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 700;
+    }
+
+    .About ul li a
+    {
+        text-decoration: none;
+        color: #111111;
+    }
+
+}
+
+             /* End About */  /* tablet */
+
+             /* Start About */ /* mobile */
+
+@media screen and (max-width:400px) {
+    
+
+    .About
+    {
+        width: 100%;
+        background-image:url(https://www.free-css.com/assets/files/free-css-templates/preview/page263/simple-house/assets/img/about-05.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .About nav
+    {
+        overflow: hidden;
+        padding: 10px;
+    }
+
+
+    .About logo
+    {
+        float: left;
+        padding-top: 500px;
+    }
+
+    .About logo .text
+    {
+        font-family: sans-serif;
+        color: #111111;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 400;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        text-shadow: 0px 0px black;
+    }
+
+    .About logo img
+    {
+        float: left;
+        padding-left: 40px;
+    }
+
+    .About ul
+    {
+        float: right;
+        padding-bottom: 
+    }
+
+    .About ul li
+    {
+        float: left;
+        list-style: none;
+        padding: 16px;
+        color: #111111;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 600;
+    }
+
+    .About ul li a
+    {
+        text-decoration: none;
+        color: #111111;
+    }
+
+}
+
+             /* End About */  /* mobile */
+
+
+             /* Start Info */  
+
+.Info
+{
+    text-align: center;
+}
+
+.Info .text
+{
+    text-align: center;
+    font-size: 21px;
+    opacity: 0.8;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight:100;
+    line-height: 39px;
+}
+
+.Info h2
+{
+    
+}
+
+.Info p
+{
+    padding-left: 220px;
+    padding-right: 220px;
+    color: #161616;
+}
+
+             /* End Info */
+
+
+             /* Start Info */  /* tablet */
+
+@media screen and (max-width:768px) {
+    
+
+    .Info
+    {
+        text-align: center;
+    }
+
+    .Info .text
+    {
+        text-align: center;
+        font-size: 15px;
+        opacity: 0.8;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight:100;
+        line-height: 39px;
+    }
+
+    .Info h2
+    {
+
+    }
+
+    .Info p
+    {
+        padding-left: 3px;
+        padding-right: 3px;
+        color: #161616;
+    }
+
+    
+}
+
+             /* End Info */  /* tablet */
+
+
+             /* Start Info */  /* mobile */
+
+@media screen and (max-width:400px) {
+
+    .Info
+    {
+        text-align: center;
+    }
+
+    .Info .text
+    {
+        text-align: center;
+        font-size: 14px;
+        opacity: 0.8;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight:300;
+        line-height: 39px;
+    }
+
+
+    .Info p
+    {
+        padding-left: 2px;
+        padding-right: 2px;
+        color: #161616;
+    }
+
+    
+}
+
+             /* End Info */  /* mobile */
+
+
+             /* Start People */
+
+.People-one
+{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.People-one > div
+{
+    float: left;
+    width: 44%;
+    margin-bottom: 15px;
+    padding-left: 60.1px;
+}
+
+.People-one h2
+{
+    color: #1a6692;
+    opacity: 0.9;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.People-one h3
+{
+    color: #CF3399;
+    opacity: 0.7;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.People-one p
+{
+    color: #878787;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    padding-right: 50px;
+}
+
+.People-two
+{
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.People-two > div
+{
+    float: left;
+    width: 44%;
+    margin-bottom: 15px;
+    padding-left: 60.1px;
+}
+
+.People-two h2
+{
+    color: #1a6692;
+    opacity: 0.9;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.People-two h3
+{
+    color: #CF3399;
+    opacity: 0.7;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.People-two p
+{
+    color: #878787;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    padding-right: 50px;
+}
+
+             /* End People */
+
+
+             /* Start People */  /* tablet */
+
+@media screen and (max-width:768px) {
+
+    .People-one
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .People-one > div
+    {
+        width: 33%;
+        margin-bottom: 15px;
+        padding-left: 60.1px;
+    }
+
+    .People-one h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 22px;
+        font-family: sans-serif;
+        font-weight: 500;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-one h3
+    {
+        color: #CF3399;
+        opacity: 0.7;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-one p
+    {
+        color: #878787;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .People-two > div
+    {
+        width: 33%;
+        margin-bottom: 15px;
+        padding-left: 60.1px;
+    }
+
+    .People-two h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 22px;
+        font-family: sans-serif;
+        font-weight: 500;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two h3
+    {
+        color: #CF3399;
+        opacity: 0.7;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two p
+    {
+        color: #878787;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+        padding-left: 22px;
+    }
+    
+}
+
+
+             /* End People */  /* tablet */
+
+             /* Start People */  /* mobile */
+
+
+@media screen and (max-width:400px) {
+
+    .People-one
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .People-one > div
+    {
+        width: 44%;
+        margin-bottom: 15px;
+        padding-left: 60.1px;
+    }
+
+    .People-one h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-one h3
+    {
+        color: #CF3399;
+        opacity: 0.7;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-one p
+    {
+        color: #878787;
+        font-size: 11px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two
+    {
+        overflow: hidden;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+
+    .People-two > div
+    {
+        width: 44%;
+        margin-bottom: 15px;
+        padding-left: 60.1px;
+    }
+
+    .People-two h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two h3
+    {
+        color: #CF3399;
+        opacity: 0.7;
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 300;
+        text-align: center;
+        padding-left: 22px;
+    }
+
+    .People-two p
+    {
+        color: #878787;
+        font-size: 11px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+        padding-right: 1px;
+        padding-left: 1px;
+        text-align: center;
+        padding-left: 22px;
+    }
+    
+}
+
+
+             /* End People */  /* mobile */
+
+
+
+             /* Start More */
+
+.More
+{
+    height: 400px;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 60px;
+}
+
+.More img
+{
+    float: left;
+    width: 41%;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.More .text
+{
+    float: right;
+    width: 51%;
+    padding-left: 60px;
+}
+
+.More .text h2
+{
+    color: #1a6692;
+    opacity: 0.9;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.More .text p
+{
+    padding-right: 150px;
+    color: #878787;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+
+             /* End More */
+
+             /* Start More */  /* tablet */
+
+@media screen and (max-width:768px) {
+    
+
+    .More
+    {
+        height: 700px;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    .More img
+    {
+        text-align: center;
+        width: 93%;
+
+    }
+
+    .More .text
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .More .text h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 22px;
+        font-family: sans-serif;
+        font-weight: 300;
+    }
+
+    .More .text p
+    {
+        text-align: center;
+        padding-right: 10px;
+        padding-left: 10px;
+        color: #878787;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+    }
+
+}
+
+             /* End More */  /* tablet */
+
+               
+             /* Start More */  /* mobile */
+
+
+@media screen and (max-width:400px) {
+    
+
+    .More
+    {
+        height: 610px;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    .More img
+    {
+        text-align: center;
+        width: 86%;
+
+    }
+
+    .More .text
+    {
+        width: 98%;
+        text-align: center;
+    }
+
+    .More .text h2
+    {
+        color: #1a6692;
+        opacity: 0.9;
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 300;
+    }
+
+    .More .text p
+    {
+        text-align: center;
+        padding-right: 10px;
+        padding-left: 10px;
+        color: #878787;
+        font-size: 11px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 30px;
+    }
+
+}
+
+             /* End More */  /* mobile */
+
+
+
+             /* Start footer */
+
+
+.footer
+{
+    height: 85px;
+    background-color: #CCCCCC;
+}
+
+.footer h2
+{
+    text-align: center;
+    opacity: 0.8;
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 34px;
+    padding-top: 30px;
+}
+
+
+             /* End footer */
+
+             /* Start footer */  /* tablet */
+
+@media screen and (max-width:768px) {
+
+
+    .footer
+    {
+        height: 70px;
+        background-color: #CCCCCC;
+    }
+
+    .footer h2
+    {
+        text-align: center;
+        opacity: 0.8;
+        color: black;
+        font-size: 15px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        padding-top: 4%;
+
+    }
+}
+
+
+             /* End footer */  /* tablet */
+
+
+             /* Start footer */  /* mobile */
+
+@media screen and (max-width:400px) {
+
+
+    .footer
+    {
+        height: 70px;
+        background-color: #CCCCCC;
+    }
+
+    .footer h2
+    {
+        text-align: center;
+        opacity: 0.8;
+        color: black;
+        font-size: 12px;
+        font-family: sans-serif;
+        font-weight: 300;
+        line-height: 34px;
+        padding-top: 6%;
+
+    }
+    
+}
+
+
+             /* End footer */  /* mobile */
